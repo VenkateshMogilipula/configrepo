@@ -1,0 +1,4 @@
+my:
+  greeting: Welcome to cloud management configuration client-2 server
+  list:
+    values: apple
